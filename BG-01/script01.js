@@ -1,5 +1,5 @@
 // 1.Create a variable(Name) and store your name;
-let name = "Nitin";
+let name = "Mike";
 
 // 2.  create a variable(goal) and store your goall
  let goal = "Rich-guy";
